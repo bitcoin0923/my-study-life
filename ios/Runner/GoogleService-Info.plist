@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>466708350180-aoaobgdf6a4ej8l79d0sgfeg9j3voehs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.466708350180-aoaobgdf6a4ej8l79d0sgfeg9j3voehs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>466708350180-3o0vmu0ncjinobjvgo5l61rg2c373nds.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxnyTg-yI941K3t_U5cTiE8TlSqfTastQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>466708350180</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mystudylife.app</string>
+	<key>PROJECT_ID</key>
+	<string>mystudylife-37265</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mystudylife-37265.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:466708350180:ios:bab616b11e6d21a99f58f1</string>
+</dict>
+</plist>

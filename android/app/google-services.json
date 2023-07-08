@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466708350180",
+    "project_id": "mystudylife-37265",
+    "storage_bucket": "mystudylife-37265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466708350180:android:20da3fd6847b1ce99f58f1",
+        "android_client_info": {
+          "package_name": "com.mystudylife.Mystudylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466708350180-3o0vmu0ncjinobjvgo5l61rg2c373nds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mystudylife.Mystudylife",
+            "certificate_hash": "403d6f433a3f1e60192bbd24c8e06cb3c0057e0f"
+          }
+        },
+        {
+          "client_id": "466708350180-ih4issi5v7hlrlh7as4643vt8v5cd694.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiDmPgfK2Q_eCQGEWv1XIiK1DR73jncTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466708350180-ih4issi5v7hlrlh7as4643vt8v5cd694.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
